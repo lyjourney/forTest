@@ -1,4 +1,4 @@
-name, data, features, model
-test, test1, test2, tddd
-1, 2, 3, 4
-aio;wefiojwefaijofwaeo;fwaeioowaefioiwefaoiweafja,w efjiweajfiwaejfiawejfilwaejfliwaefja,we fiawefjlawejfiajwlefjiawefjawlef,awekfjiawefljwilaejfilwaejf
+user, docker, code(hash), dataVersion, modelName, score, etc...
+ljh, invai/yolov5, github.com/ultralytics/yolov5(ru48y230), labelV1_2, R3u8owf_car.engine, 0.8732, None
+chc, invai/yolov7, github.com/WongKinYiu/yolov7(5yrhsf22), labelV2_1, 8ry439us_car.engine, 0.9027, None
+syi, invai/yolov10, github.com/lyjourney/yolov10(r301uthg), labelV2_N, 9832uyyf_car.engine, 0.9478, None 
